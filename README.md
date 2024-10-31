@@ -1,7 +1,7 @@
 <h1 align = 'center'>00Racing 🏎️</h1>
 
 **Team name:** '00TEAM' </br> 
-**Presentation:** <a href = 'https://docs.google.com/presentation/d/1vPE_Pq3594tLDzdZoWJ9UE2ZCLpenEnN/edit?usp=drive_link&ouid=109280810157950793267&rtpof=true&sd=true'>скачать</a></br>
+**Presentation:** <a href = 'https://docs.google.com/presentation/d/1vPE_Pq3594tLDzdZoWJ9UE2ZCLpenEnN/edit?usp=drive_link&ouid=109280810157950793267&rtpof=true&sd=true'>download</a></br>
 **Developers:**
 * [teenxsky](https://github.com/teenxsky)
 * [r0manch1k](https://github.com/r0manch1k)
