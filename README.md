@@ -1,11 +1,11 @@
-<h1 align = 'center' >00Racing: car:< / h1>
+<h1 align = 'center'>00Racing: car:</h1>
 
-** Team name:** '00TEAM' < / br> 
-** Presentation:* * <a href = 'https://docs.google.com/presentation/d/1vPE_Pq3594tLDzdZoWJ9UE2ZCLpenEnN/edit?usp=drive_link&ouid=109280810157950793267&rtpof=true&sd=true'>скачать</a></br>
-**Разработчики:**
+**Team name:** '00TEAM' </br> 
+**Presentation:** <a href = 'https://docs.google.com/presentation/d/1vPE_Pq3594tLDzdZoWJ9UE2ZCLpenEnN/edit?usp=drive_link&ouid=109280810157950793267&rtpof=true&sd=true'>скачать</a></br>
+**Developers:**
 * [teenxsky https://github.com/teenxsky)
 * [r0manch1k] (https://github.com/r0manch1k)
-* [sxmurxy0] (https://github.com/sxmurxy0) < / br>
+* [sxmurxy0] (https://github.com/sxmurxy0) </br>
 
 <h1 align="center">: eyes:< / h1>
 <img width="960" alt="screenshot 2023-12-23 114508" src="https://github.com/teenxsky/racing_game/assets/46312126/22e9b075-0683-4af7-9592-e9a8d6c657d7">
